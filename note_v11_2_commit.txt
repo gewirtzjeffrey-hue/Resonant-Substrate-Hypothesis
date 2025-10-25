@@ -1,0 +1,1 @@
+Added compute_spectral_decay.py, fit_invariant_ratio.py, README_code.md, and requirements.txt as part of the reproducibility codebase for Resonant Substrate Hypothesis v11.2.
