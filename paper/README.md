@@ -1,0 +1,1 @@
+Paper assets live here.
