@@ -1,0 +1,21 @@
+© 2025 Jeffrey Gewirtz
+Author: Jeffrey Gewirtz
+Independent Researcher in Theoretical and Mathematical Physics
+ORCID: 0009-0004-8500-0049
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+Version: v11.2
+Prepared for peer review and public reproducibility verification.
+
+---
+Resonant Substrate Hypothesis (RSH) — Submission Text (v11.2)
+
+The Resonant Substrate Hypothesis (RSH) proposes a measurable invariant linking the temporal decay of mutual information and spectral energy in dissipative systems:
+
+    F = γ_MI / (2 γ_spec) ≈ 1
+
+Derived from gravitational-wave strain data, this relation suggests a symmetry between informational and energetic dissipation, defining time as correlation decay. The hypothesis integrates empirical analysis, Bayesian inference, and thermodynamic reasoning in a reproducible, open-science framework.
+
+This document serves as the short-form submission text associated with the v11.2 repository edition of RSH.
+
+---
+This version is shared under CC BY 4.0 for scientific transparency. Please cite the Zenodo DOI when referencing this work.
