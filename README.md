@@ -1,6 +1,8 @@
 # Resonant Substrate Hypothesis (RSH): A Universal Invariant Linking Information and Energy Dissipation
 *Empirical evidence for a symmetry between informational and energetic decay in gravitational-wave data.*
-
+<a href="https://doi.org/10.5281/zenodo.17443377">
+  <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17443377.svg" alt="DOI">
+</a>
 **Author:** Jeffrey Gewirtz  
 **ORCID:** 0009-0004-8500-0049  
 **Version:** v11.2 — GitHub Working Edition  
