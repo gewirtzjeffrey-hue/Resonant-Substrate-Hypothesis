@@ -1,3 +1,5 @@
+> *Notice:* For academic and non-commercial research use only. Commercial or government use requires a separate license agreement with the author.
+
 # Resonant Substrate Hypothesis (RSH)
 
 *Latest release:* v14 — [Zenodo DOI 10.5281/zenodo.17558566](https://doi.org/10.5281/zenodo.17558566)  
