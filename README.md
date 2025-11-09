@@ -59,4 +59,4 @@ CC BY 4.0 (text & figures) and MIT License (code).
 Any commercial, for-profit, or government-contract use requires a separate  
 license agreement with the author, *Jeffrey Gewirtz*.  
 Contact: gewirtzjeffrey@gmail.com 
-Contact: gewirtzjeffrey@gmail.com 
+
