@@ -1,4 +1,10 @@
 > *Notice:* For academic and non-commercial research use only. Commercial or government use requires a separate license agreement with the author.
+>
+⚠ LEGAL NOTICE — EFFECTIVE IMMEDIATELY (November 9 2025)
+All prior and current versions of the Resonant Substrate Hypothesis (RSH), including text, figures, and code hosted on Zenodo and GitHub, are covered by a commercial-use restriction.  
+Any commercial, governmental, or for-profit application, derivative, or redistribution requires a written license agreement with the author, Jeffrey Gewirtz (ORCID 0009-0004-8500-0049).  
+This notice applies retroactively to all public releases of RSH.
+
 
 # Resonant Substrate Hypothesis (RSH)
 
