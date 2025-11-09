@@ -50,3 +50,13 @@ holds across acoustic, seismic, gravitational-wave, and electronic resonance dom
 *Author:* Jeffrey Gewirtz — Independent Researcher in Theoretical & Mathematical Physics  
 *ORCID:* [0009-0004-8500-0049](https://orcid.org/0009-0004-8500-0049)  
 *Email:* gewirtzjeffrey@gmail.com 
+
+### Commercial-Use Restriction
+
+All RSH text, figures, and code are released for academic and non-commercial research under  
+CC BY 4.0 (text & figures) and MIT License (code).
+
+Any commercial, for-profit, or government-contract use requires a separate  
+license agreement with the author, *Jeffrey Gewirtz*.  
+Contact: gewirtzjeffrey@gmail.com 
+Contact: gewirtzjeffrey@gmail.com 
