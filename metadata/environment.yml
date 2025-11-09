@@ -1,0 +1,6 @@
+name: rsh_v14_env
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib

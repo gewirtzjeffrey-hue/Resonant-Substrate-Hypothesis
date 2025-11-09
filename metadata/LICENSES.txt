@@ -1,0 +1,2 @@
+Text & Figures: CC BY 4.0
+Code: MIT License

@@ -1,0 +1,33 @@
+{
+  "title": "Resonant Substrate Hypothesis (RSH) v14: A Unifying Law of Information, Energy, and Time — Linking Einstein, Planck, and Shannon through the Gewirtz Invariant",
+  "version": "v14.0",
+  "doi": "10.5281/zenodo.17558566",
+  "creators": [
+    {
+      "name": "Gewirtz, Jeffrey",
+      "affiliation": "Independent Researcher in Theoretical & Mathematical Physics",
+      "orcid": "0009-0004-8500-0049",
+      "email": "gewirtzjeffrey@gmail.com"
+    }
+  ],
+  "license": [
+    {
+      "description": "Text and Figures — Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "description": "Code — MIT License",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "Resonant Substrate Hypothesis",
+    "Gewirtz Invariant",
+    "information-energy-time",
+    "physics",
+    "reproducibility"
+  ],
+  "publication_date": "2025-11-08",
+  "access_right": "open",
+  "language": "en"
+}
