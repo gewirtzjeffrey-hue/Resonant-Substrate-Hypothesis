@@ -9,8 +9,10 @@ Unauthorized commercial use is prohibited and may constitute infringement of the
 
 # Resonant Substrate Hypothesis (RSH)
 
-*Latest release:* v14 — [Zenodo DOI 10.5281/zenodo.17558566](https://doi.org/10.5281/zenodo.17558566)  
-*Previous version:* v11.2.1 (archival)
+*Latest releases:*
+- **v15.1** (Public Continuation) — [Zenodo DOI 10.5281/zenodo.17575280](https://doi.org/10.5281/zenodo.17575280)
+- **v14** (Empirical Validation) — [Zenodo DOI 10.5281/zenodo.17558566](https://doi.org/10.5281/zenodo.17558566)
+
 
 This repository contains the complete reproducibility package for  
 *Resonant Substrate Hypothesis (RSH) v14 — A Unifying Law of Information, Energy, and Time: Linking Einstein, Planck, and Shannon through the Gewirtz Invariant.*
@@ -51,7 +53,13 @@ holds across acoustic, seismic, gravitational-wave, and electronic resonance dom
 
 ### 🔖 Licensing
 - *Code:* MIT License  
-- *Text & Figures:* Creative Commons Attribution 4.0 (CC BY 4.0)
+- 🔖 Licensing
+
+- **Code:** MIT License
+- **Text & Figures:** Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)
+
+**Commercial use prohibited.** See commercial-use restriction notice at top of README.
+
 
 ---
 
@@ -62,10 +70,13 @@ holds across acoustic, seismic, gravitational-wave, and electronic resonance dom
 
 ### Commercial-Use Restriction
 
-All RSH text, figures, and code are released for academic and non-commercial research under  
-CC BY 4.0 (text & figures) and MIT License (code).
+All RSH text, figures, and code are released for academic and non-commercial research under
+CC BY-NC 4.0 (text & figures) and MIT License (code).
+) and **MIT License** (code).
 
 Any commercial, for-profit, or government-contract use requires a separate  
 license agreement with the author, *Jeffrey Gewirtz*.  
+Contact: [gewirtzjeffrey@gmail.com](mailto:gewirtzjeffrey@gmail.com)
+
 Contact: gewirtzjeffrey@gmail.com 
 
